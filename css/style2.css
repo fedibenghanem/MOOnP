@@ -1,0 +1,32 @@
+body,html {
+    
+    background: url('https://img.freepik.com/vecteurs-libre/agriculteur-utilisant-drone-robot-pour-irrigation-champ-agricole_88138-787.jpg?w=1380&t=st=1676756208~exp=1676756808~hmac=630f64f382bd59e6974744a603ae786f677a30ce671f81e8280c77eff2fa0e70') ;
+    box-shadow: inset 0 0 0 1000px rgba(81, 81, 81, 0.692);
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.form-container {
+    background: rgba(57, 57, 57, 0.835);
+    width: 35%;
+    margin: 100px auto;
+    height: 650px;
+    width: 440px;
+    
+  }
+input{
+    width: 30px;
+}
+p  {
+    color: white;
+}
+button{
+    background-color: red;
+    border-color: red;
+    color: white;
+
+}
